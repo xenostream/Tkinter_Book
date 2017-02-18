@@ -32,7 +32,7 @@ root.destroy() # optional
 ```
 
 ### 프로그램 실행 (Windows Tk 8.6 사용)
- 
+ ![!](http://effbot.org/media/cache/76734d5c44455920d98197bd2958fec7.gif)
 
 오른쪽 버튼(**Hello**)을 클릭하면 `"hi there, everyone!"`이라는 텍스트가 콘솔에 표시됩니다.       
 왼쪽 버튼(**Quit**)을 클릭하면 프로그램이 종료됩니다.
@@ -182,3 +182,4 @@ ok = Button(dialog, name="ok")
 
 > Tkinter의 명명 체계와의 충돌을 피하려면 숫자만 포함 된 이름을 사용하지 마십시오.    
 > 또한 이름은 "생성 전용" 옵션입니다.  위젯을 한번 만들면 이름을 변경할 수 없습니다.   
+
