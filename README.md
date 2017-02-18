@@ -34,3 +34,4 @@ Tkinter 모듈은 위젯 클래스와 관련된 상수만 노출하므로 대부
 ```python
 import tkinter as tk
 ```
+
